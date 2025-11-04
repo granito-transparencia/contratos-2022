@@ -1,6 +1,6 @@
 # 🚌 Contratos de Transporte Escolar – Município de Granito (PE)
 
-Página desenvolvida para a **Secretaria Municipal de Educação de Granito – PE**, destinada à publicação dos **contratos de transporte escolar referentes ao exercício de 2024**.  
+Página desenvolvida para a **Secretaria Municipal de Educação de Granito – PE**, destinada à publicação dos **contratos de transporte escolar referentes ao exercício de 2022**.  
 O objetivo é **promover transparência e facilitar o acesso público** às informações sobre os prestadores de serviço e valores contratados.
 
 ---
